@@ -148,6 +148,10 @@ body {
   justify-content: left;
 }
 
+.form h1 {
+  font-size: 20px;
+}
+
 .inputs {
   padding: 10px;
   padding-right: 0px;
